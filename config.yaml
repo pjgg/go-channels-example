@@ -1,0 +1,5 @@
+go-channels-example:
+  ingestion:
+    source: DEFAULT
+    channel: DIRECT_GRAPH
+    sink: FUNKY_LOGGER
